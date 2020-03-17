@@ -6,9 +6,6 @@
 
 ### Objectives
 
-//takes two arguments, an array and an integer
-//sort the array then return the appropriate index number that the integer would be placed in the sorted array
-
 - Create a function which takes two arguments, an array (`arr`) and an integer (`num`).
 - Determine the index number of the array at which the `num` should be inserted into the sorted `arr`.
 - The output should return integer representing the index number.
